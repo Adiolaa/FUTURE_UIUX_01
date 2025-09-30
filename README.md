@@ -17,24 +17,24 @@ The goal of the design is to provide a seamless, modern, and user-friendly exper
 Here are some preview screens from the design:
 
 ### Menu Page 
-![Menu Page Web]()
+[Menu Page Web](Web(Menupage).png)
 
-![Menu Page Mobile](screenshots/menu-page.png)
+[Menu Page Mobile](Mobile(Menupage).png)
 
 ### Food Item Details 
-![Food Item Details Web](screenshots/food-details.png)
+[Food Item Details Web](Web(Orderdetailspage).png)
 
-![Food Item Details Mobile](screenshots/food-details.png)
+[Food Item Details Mobile](Mobile(Registerpage).png)
 
 ### Checkout Page  
-![Checkout Page Web](screenshots/checkout.png)
+[Checkout Page Web](We(CheckOutpage).png)
 
-![Checkout Page Mobile](screenshots/checkout.png)
+[Checkout Page Mobile](Mobile(Checkoutpage).png)
 
 ### Order Confirmation  
-![Confirmation Web](screenshots/confirmation.png)
+[Confirmation Web](Web(Confirmationpage).png)
 
-![Confirmation Mobile](screenshots/confirmation.png)
+[Confirmation Mobile](Mobile(Confirmationpage).png)
 
 ---
 
@@ -53,7 +53,7 @@ License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses
 ---
 
 ## 👩‍💻 About Me
-Designed by **Adesegh Oreoluwa**  
+Designed by **Adesegha Oreoluwa**  
 - 💼 [LinkedIn Profile](https://linkedin.com/in/your-link)  
 
 
